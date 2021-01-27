@@ -1,3 +1,85 @@
 .navbar-brand img{
  width: 200px;
 }
+.write{
+    color:  #22b473;
+}
+.get{
+    background-color: #21B573;
+    color: white;
+    padding:10px 28px;
+    border-radius: 30px;
+    border: none;
+}
+.photo{
+    width: 600px;
+}
+.reday{
+    color: red;
+}
+header{
+    background-color: #F0FFF0;
+}
+.nav-button{
+    background-color: seagreen;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 5px 15px;
+    padding-top: 5%;
+    margin-bottom:5%;
+}
+.box{
+    text-align: center;
+    border-radius: 15px;
+    padding: 30px;
+}
+.box img{
+ height: 100px;
+}
+.box h4{
+    font-weight: 700;
+    color: #413960;
+    }
+.box:hover{
+    box-shadow: 5px 5px 60px lightgray;
+}
+.box p{
+    color: orangered;
+}
+.online{
+    color:#413960;
+}
+.card-title{
+    color: #413960;
+}
+.card-footer{
+    border: none;
+}
+.card-button{
+    background-color: #21B573;
+    color: white;
+    padding:10px 28px;
+    border-radius: 30px;
+    border: none;
+    
+}
+.card :hover{
+    box-shadow: 5px 5px 30px;
+    border: none;
+}
+.test{
+    margin-bottom: 100px;
+    text-align: center;
+    font-weight: 1000;
+    margin-top: 100px;
+}
+footer{
+    background-color: #282531;
+    color: white;
+    padding: 50px 0px;
+    margin-top: 50px;
+}
+.card{
+    margin-top: 100px;
+}
