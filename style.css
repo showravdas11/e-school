@@ -41,7 +41,7 @@ header{
     box-shadow: 5px 5px 60px lightgray;
 }
 .box p{
-    color: orangered;
+    color:black;
 }
 .online{
     color:#413960;
@@ -63,6 +63,7 @@ header{
 .card{
     box-shadow: 5px 5px 30px;
     border: none;
+    border-radius: 13px;
 }
 .test{
     margin-bottom: 100px;
@@ -78,4 +79,10 @@ footer{
 }
 .card{
     margin-top: 100px;
+}
+.card-img{
+    border: 13px solid rgb(255, 255, 255);
+}
+.card-text{
+    color: gray;
 }
